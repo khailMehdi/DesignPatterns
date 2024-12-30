@@ -1,0 +1,6 @@
+Design patterns : pour facilite le maintenance de l'application , et facilite le developments il ya 2 types de patterns 1-patterns tactique ,2-patterns Architecture (Microservice)
+parmi les classification  des patterns 
+ 1-Creation : pour instancies les classes EX:
+ 2- 
+ 
+                
