@@ -7,5 +7,7 @@ public class Main {
         context.perform();
         context.setStrategy(new StrategyImpl2());
         context.perform();
+        context.setStrategy(new StrategyImpl3());
+        context.perform();
     }
 }
